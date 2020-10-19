@@ -34,7 +34,7 @@
 ## My Github Status
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhjamaludin&include_all_commits=true&count_private=true&show_icons=true&themes=prussian" alt="devSouvik's Github Stats">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhjamaludin&show_icons=true&theme=vue-dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhjamaludin&show_icons=true&theme=vue-dark">
 
 ⭐️ From [Muh Jamaludin](https://github.com/muhjamaludin)
 
