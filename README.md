@@ -1,7 +1,7 @@
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 👋, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 - 🔭 I’m currently working on [Bigbox](https://www.thebigbox.id/)
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning Odoo, Python
 - 📫 How to reach me: 74maludin@gmail.com
 - 💬 Ask me about anything. I'll be happy to help.
 - 😄 Pronouns: Indonesian, Javanese, and English
@@ -22,6 +22,7 @@
 ![expressjs](https://img.shields.io/badge/expressjs-grey?style=for-the-badge&logo=google&logoColor=white&labelColor=8E2DE2)
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
 ![npm](https://img.shields.io/badge/-npm-grey?style=for-the-badge&logo=npm&logoColor=white&labelColor=8E2D2)
+![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2D2)
 <br>
 ![mysql](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)
 ![postgresql](https://img.shields.io/badge/-postgresql-grey?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=8E2DE2)
@@ -29,12 +30,15 @@
 <br>
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
+![gitlab](https://img.shields.io/badge/-gitlab-grey?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=8E2DE2)
 ![linux](https://img.shields.io/badge/-linux-grey?style=for-the-badge&logo=linux&logoColor=white&labelColor=8E2DE2)
 
+<!--
 ## My Github Status
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhjamaludin&include_all_commits=true&count_private=true&show_icons=true&themes=prussian" alt="devSouvik's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhjamaludin&include_all_commits=false&count_private=true&show_icons=true&themes=prussian" alt="devSouvik's Github Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhjamaludin&show_icons=true&theme=vue-dark">
+-->
 
 ⭐️ From [Muh Jamaludin](https://github.com/muhjamaludin)
 
