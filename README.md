@@ -1,7 +1,7 @@
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 👋, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 - 🔭 I’m currently working on [Bigbox](https://www.thebigbox.id/)
-- 🌱 I’m currently learning Odoo, Python
+- 🌱 I’m currently learning nodejs, php framework
 - 📫 How to reach me: 74maludin@gmail.com
 - 💬 Ask me about anything. I'll be happy to help.
 - 😄 Pronouns: Indonesian, Javanese, and English
